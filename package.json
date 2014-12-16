@@ -1,11 +1,12 @@
 {
-  "name": "step-heatmap",
+  "name": "window-heatmap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "canvas": "~1.1.6",
-    "tinygradient": "~0.2.0"
+    "tinygradient": "~0.2.0",
+    "optimist": "~0.6.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/wonderchang/step-heatmap.git"
   },
-  "author": "",
+  "author": "Wonder Chang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wonderchang/step-heatmap/issues"
