@@ -39,4 +39,7 @@ The first column in each row is the window number, and the rest of columns are t
 
 <img src="output/test1.png" height="400" />
 
+## License
+
+MIT
 
